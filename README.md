@@ -21,7 +21,8 @@
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Arindam430/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Arindam430/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Arindam430/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-   **3.** Create Gross Margin reports by [Quarters](https://github.com/Arindam430/Excel-Sales-Analytics/blob/main/Gross%20Margin%20by%20Quarters.pdf)_
+  
+   **3.** Create Gross Margin reports by [Quarters](https://github.com/Arindam430/Excel-Sales-Analytics/blob/main/Gross%20Margin%20by%20Quarters.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
